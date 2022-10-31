@@ -1385,6 +1385,7 @@
     "@ignite-ui/eslint-config" "*"
     "@ignite-ui/react" "*"
     "@ignite-ui/tokens" "*"
+    "polished" "^4.2.2"
     "react" "^18.2.0"
     "react-dom" "^18.2.0"
 
@@ -2746,14 +2747,14 @@
   "resolved" "https://registry.npmjs.org/@types/qs/-/qs-6.9.7.tgz"
   "version" "6.9.7"
 
-"@types/react-dom@^18.0.8":
+"@types/react-dom@^18.0.6":
   "integrity" "sha512-C3GYO0HLaOkk9dDAz3Dl4sbe4AKUGTCfFIZsz3n/82dPNN8Du533HzKatDxeUYWu24wJgMP1xICqkWk1YOLOIw=="
   "resolved" "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.0.8.tgz"
   "version" "18.0.8"
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^18.0.24":
+"@types/react@*", "@types/react@^18.0.21":
   "integrity" "sha512-wRJWT6ouziGUy+9uX0aW4YOJxAY0bG6/AOk5AW5QSvZqI7dk6VBIbXvcVgIw/W5Jrl24f77df98GEKTJGOLx7Q=="
   "resolved" "https://registry.npmjs.org/@types/react/-/react-18.0.24.tgz"
   "version" "18.0.24"
