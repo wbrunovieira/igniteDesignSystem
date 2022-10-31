@@ -1,0 +1,2 @@
+import{A as t}from"./index.82a087fa.js";import"./index.9c2abdd5.js";import"./iframe.abfdde7b.js";import"./index.4c60baa1.js";import"./jsx-runtime.dbbb86a8.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/wbrunovieira.png",alt:"Bruno Vieira"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.4324c56c.js.map
